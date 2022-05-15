@@ -1,0 +1,5 @@
+# Ignore the following:
+.idea/
+leetcode.iml
+out/
+src/
